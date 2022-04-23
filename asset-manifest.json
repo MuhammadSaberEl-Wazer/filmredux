@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmredux/static/css/main.1bffaef2.css",
+    "main.js": "/filmredux/static/js/main.d9daad21.js",
+    "static/media/man.png": "/filmredux/static/media/man.5b6adb8e38ee506fde52.png",
+    "index.html": "/filmredux/index.html",
+    "main.1bffaef2.css.map": "/filmredux/static/css/main.1bffaef2.css.map",
+    "main.d9daad21.js.map": "/filmredux/static/js/main.d9daad21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bffaef2.css",
+    "static/js/main.d9daad21.js"
+  ]
+}
